@@ -105,19 +105,48 @@ name {
   font-size: 32px;
 }
 
+
+.flexbox{
+  width: 160px;
+  height: 160px;
+  display: flex;
+  align-items: center;
+  justify-self: center;
+}
+
+.flexbox img{
+  justify-items: center;
+  align-items: center;
+}
+
+
 .one {
   width: 160px;
   height: 160px;
+  display: flex;
   position: relative;
+  align-items: center;
+}
+
+.one img{
+  width: 160px;
+  align-items: center;
 }
 
 .two {
   width: 160px;
   height: 160px;
+  display: flex;
   position: absolute;
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
   -webkit-transition: opacity .2s ease-in-out;
+  align-items: center;
+}
+
+.two img{
+  width: 160px;
+  align-items: center;
 }
 
 .fade {
