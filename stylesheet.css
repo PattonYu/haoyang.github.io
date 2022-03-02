@@ -111,12 +111,14 @@ name {
   height: 160px;
   display: flex;
   align-items: center;
-  justify-self: center;
+  justify-items: center;
+  /* text-align: center; */
 }
 
 .flexbox img{
   justify-items: center;
   align-items: center;
+  /* text-align: center; */
 }
 
 
