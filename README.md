@@ -1,1 +1,1 @@
-My [homepage](https://pattonyu.github.io/)
+My personal [homepage](https://pattonyu.github.io/)
