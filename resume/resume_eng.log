@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.9)  18 APR 2022 13:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.9)  19 APR 2022 13:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -466,13 +466,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 49.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/m/n' in size <14.4> not available
-(Font)              Font shape `OT1/EBGaramond-LF/regular/n' tried instead on input line 61.
+(Font)              Font shape `OT1/EBGaramond-LF/regular/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 61.
+(Font)              scaled to size 14.4pt on input line 68.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/b/n' in size <14.4> not available
-(Font)              Font shape `OT1/EBGaramond-LF/bold/n' tried instead on input line 61.
+(Font)              Font shape `OT1/EBGaramond-LF/bold/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 61.
+(Font)              scaled to size 14.4pt on input line 68.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/b/n' in size <10> not available
 (Font)              Font shape `OT1/EBGaramond-LF/bold/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/bold/n' will be
@@ -489,18 +489,18 @@ Package rerunfilecheck Info: File `resume_eng.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11073 strings out of 480175
- 172756 string characters out of 5894363
- 476125 words of memory out of 5000000
+ 11072 strings out of 480175
+ 172746 string characters out of 5894363
+ 475125 words of memory out of 5000000
  28878 multiletter control sequences out of 15000+600000
  479109 words of font info for 36 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  60i,5n,79p,353b,361s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {d:/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_xhqcff.enc}{d:/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_gfppum.enc}<d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on resume_eng.pdf (1 page, 305057 bytes).
+Output written on resume_eng.pdf (1 page, 303558 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
+ 47 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
