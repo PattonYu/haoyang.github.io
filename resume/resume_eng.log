@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.9)  26 APR 2022 11:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.9)  28 APR 2022 16:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -300,8 +300,7 @@ LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/regular/n' will be
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count275
 \l__pdf_internal_box=\box52
-)
-No file resume_eng.aux.
+) (./resume_eng.aux)
 \openout1 = `resume_eng.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -388,6 +387,7 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
 \c@mv@tabular=\count276
 \c@mv@boldtabular=\count277
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -449,6 +449,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 32.
 LaTeX Info: Redefining \pageref on input line 32.
 LaTeX Info: Redefining \nameref on input line 32.
+ (./resume_eng.out) (./resume_eng.out)
 \@outlinefile=\write3
 \openout3 = `resume_eng.out'.
 
@@ -484,25 +485,19 @@ LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/regular/it' will be
 ) [1
 
 {d:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume_eng.aux)
-
-Package rerunfilecheck Warning: File `resume_eng.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume_eng.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `resume_eng.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11068 strings out of 480175
- 172693 string characters out of 5894363
- 475906 words of memory out of 5000000
+ 11074 strings out of 480175
+ 172783 string characters out of 5894363
+ 476125 words of memory out of 5000000
  28878 multiletter control sequences out of 15000+600000
  479109 words of font info for 36 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 60i,5n,79p,357b,361s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,5n,79p,367b,361s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {d:/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_xhqcff.enc}{d:/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_gfppum.enc}<d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on resume_eng.pdf (1 page, 304145 bytes).
+Output written on resume_eng.pdf (1 page, 305246 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
