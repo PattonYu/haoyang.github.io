@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.9)  25 OCT 2022 21:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.9)  26 OCT 2022 10:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -578,17 +578,17 @@ File: ctex-zhmap-windows.tex 2021/12/12 v2.5.8 Windows font map loader for pdfTe
 
 ]
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/m/sl' in size <10.53937> not available
-(Font)              Font shape `OT1/EBGaramond-LF/regular/sl' tried instead on input line 124.
+(Font)              Font shape `OT1/EBGaramond-LF/regular/sl' tried instead on input line 123.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/regular/sl' in size <10.53937> not available
-(Font)              Font shape `OT1/EBGaramond-LF/regular/it' tried instead on input line 124.
+(Font)              Font shape `OT1/EBGaramond-LF/regular/it' tried instead on input line 123.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/regular/it' will be
-(Font)              scaled to size 10.53937pt on input line 124.
+(Font)              scaled to size 10.53937pt on input line 123.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/b/sl' in size <10.53937> not available
-(Font)              Font shape `OT1/EBGaramond-LF/bold/sl' tried instead on input line 124.
+(Font)              Font shape `OT1/EBGaramond-LF/bold/sl' tried instead on input line 123.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/bold/sl' in size <10.53937> not available
-(Font)              Font shape `OT1/EBGaramond-LF/bold/it' tried instead on input line 124.
+(Font)              Font shape `OT1/EBGaramond-LF/bold/it' tried instead on input line 123.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/bold/it' will be
-(Font)              scaled to size 10.53937pt on input line 124.
+(Font)              scaled to size 10.53937pt on input line 123.
  [2] (./resume_chn.aux)
 Package rerunfilecheck Info: File `resume_chn.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -602,7 +602,7 @@ Here is how much of TeX's memory you used:
  36 hyphenation exceptions out of 8191
  75i,5n,79p,718b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>{d:/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_xhqcff.enc}<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc>{d:/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_gfppum.enc}<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-BoldItalic.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on resume_chn.pdf (2 pages, 580792 bytes).
+Output written on resume_chn.pdf (2 pages, 580806 bytes).
 PDF statistics:
  325 PDF objects out of 1000 (max. 8388607)
  210 compressed objects within 3 object streams
