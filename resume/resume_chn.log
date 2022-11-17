@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.9)  10 NOV 2022 19:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.9)  17 NOV 2022 20:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -572,49 +572,40 @@ LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/b/it' in size <10.53937> not a
 (Font)              Font shape `OT1/EBGaramond-LF/bold/it' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/bold/it' will be
 (Font)              scaled to size 10.53937pt on input line 6.
-)
-LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/m/n' in size <10.53937> not available
-(Font)              Font shape `OT1/EBGaramond-LF/regular/n' tried instead on input line 108.
-LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/regular/n' will be
-(Font)              scaled to size 10.53937pt on input line 108.
-LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/m/n' in size <10.53937> not available
-(Font)              Font shape `OT1/EBGaramond-LF/regular/n' tried instead on input line 108.
-LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/regular/n' will be
-(Font)              scaled to size 10.53937pt on input line 108.
- (d:/texlive/2022/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
+) (d:/texlive/2022/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
 File: ctex-zhmap-windows.tex 2021/12/12 v2.5.8 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
 {d:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicode.sfd}) [1
 
 ]
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/m/sl' in size <10.53937> not available
-(Font)              Font shape `OT1/EBGaramond-LF/regular/sl' tried instead on input line 115.
+(Font)              Font shape `OT1/EBGaramond-LF/regular/sl' tried instead on input line 118.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/regular/sl' in size <10.53937> not available
-(Font)              Font shape `OT1/EBGaramond-LF/regular/it' tried instead on input line 115.
+(Font)              Font shape `OT1/EBGaramond-LF/regular/it' tried instead on input line 118.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/regular/it' will be
-(Font)              scaled to size 10.53937pt on input line 115.
+(Font)              scaled to size 10.53937pt on input line 118.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/b/sl' in size <10.53937> not available
-(Font)              Font shape `OT1/EBGaramond-LF/bold/sl' tried instead on input line 115.
+(Font)              Font shape `OT1/EBGaramond-LF/bold/sl' tried instead on input line 118.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/bold/sl' in size <10.53937> not available
-(Font)              Font shape `OT1/EBGaramond-LF/bold/it' tried instead on input line 115.
+(Font)              Font shape `OT1/EBGaramond-LF/bold/it' tried instead on input line 118.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-LF/bold/it' will be
-(Font)              scaled to size 10.53937pt on input line 115.
+(Font)              scaled to size 10.53937pt on input line 118.
  [2] (./resume_chn.aux)
 Package rerunfilecheck Info: File `resume_chn.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13684 strings out of 480175
- 232368 string characters out of 5894363
+ 13697 strings out of 480175
+ 232527 string characters out of 5894363
  520330 words of memory out of 5000000
- 31275 multiletter control sequences out of 15000+600000
- 499674 words of font info for 103 fonts, out of 8000000 for 9000
+ 31286 multiletter control sequences out of 15000+600000
+ 500214 words of font info for 105 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,6n,79p,718b,409s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>{d:/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_xhqcff.enc}<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc>{d:/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_gfppum.enc}<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-BoldItalic.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on resume_chn.pdf (2 pages, 576329 bytes).
+ 75i,5n,79p,718b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>{d:/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_xhqcff.enc}<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>{d:/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_gfppum.enc}<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-BoldItalic.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on resume_chn.pdf (2 pages, 586520 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 208 compressed objects within 3 object streams
+ 331 PDF objects out of 1000 (max. 8388607)
+ 214 compressed objects within 3 object streams
  11 named destinations out of 1000 (max. 500000)
- 169 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 173 words of extra memory for PDF output out of 10000 (max. 10000000)
 
